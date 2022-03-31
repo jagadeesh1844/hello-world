@@ -20,7 +20,7 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <label for="psw-repeat"><b>Repeat Passwd</b></label>
     <input type="passwd" placeholder="Repeat Passwd" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
